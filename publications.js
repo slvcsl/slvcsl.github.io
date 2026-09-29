@@ -29,7 +29,7 @@ const PUBLICATIONS = [
   {
     title: "Evaluating with Disagreement: Metrics for Soft and Perspectivist Evaluation of Categorical and Ordinal Judgments",
     authors: "Giulia Rizzi, Silvia Casola, Elisabetta Fersini, Elisa Leonardelli, Barbara Plank, Massimo Poesio",
-    venue: "PANDORA Workshop @ EMNLP 2025",
+    venue: "PANDORA Workshop @ EMNLP 2026",
     year: 2026,
     url: "",
     selected: false,
@@ -64,7 +64,7 @@ const PUBLICATIONS = [
   },
   {
     title: "The Last Translation Benchmark",
-    authors: "Vilém Zouhar, …, Silvia Casola, …",
+    authors: "Vilém Zouhar, …, Silvia Casola, …, Zaid Alyafeai",
     venue: "arXiv preprint",
     year: 2026,
     url: "https://arxiv.org/abs/2609.04173",
