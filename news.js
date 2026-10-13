@@ -14,6 +14,11 @@ const NEWS_VISIBLE = 5; // how many items to show before "Show all"
 const NEWS = [
   {
     date: "Oct 2026",
+    text: "I will be presenting our latest work analysing the LeWiDi metrics at the <a href=\"https://sites.google.com/view/dealingwithmeaningvariation/events-and-shared-tasks/demeva-2026-wshop4?authuser=0\"><strong>Dealing with Meaning Variation in NLP Workshop</strong></a>.",
+    show: true,
+  },
+  {
+    date: "Oct 2026",
     text: "Started my Marie Skłodowska-Curie Postdoctoral Fellowship at Universitat Pompeu Fabra, with the project <strong>GenEval: Linking Generation and Evaluation for Reliable NLG Assessment</strong>.",
     show: true,
   },
